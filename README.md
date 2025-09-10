@@ -35,7 +35,6 @@ An IDE (VS Code, PyCharm, or similar)
 1. Build and start the stack
 docker compose up --build
 
-"C:\Users\Dev Siddarth\Downloads\screenshot Docker.pdf"
 2. Alternative: One-command run with Makefile
 make all
 
